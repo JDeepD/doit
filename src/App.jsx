@@ -29,7 +29,7 @@ function App() {
     "#89FC00",
     "#2B3A67",
     "#2E282A",
-    "B6DC76"
+    "#B6DC76"
   ];
 
   const changebg = () => {
