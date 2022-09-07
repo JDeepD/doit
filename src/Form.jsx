@@ -19,7 +19,7 @@ function Form({ state, setState, todos, SetTodo }) {
       >
         <input 
           className="w-96 rounded-lg border-2 border-zinc-900 placeholder:text-slate-400"
-          placeholder="Write a TODO✨"
+          placeholder="✍️Write a TODO✨"
           value={state}
         //   onChange={(e)=>setState(e.target.value)}
           onChange={(e)=>setState(e.target.value)}
