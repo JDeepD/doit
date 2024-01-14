@@ -9,7 +9,7 @@ function TodoComponent({ text, todolist, settodolist }) {
     };
     return(
         <motion.div
-            whileTap={{ scale: 0.99 }}
+            whileTap={{ scale: 0.98 }}
             className="flex items-center justify-items-center rounded-lg w-11/12 bg-sky-500 h-16 border-2 border-zinc-900 my-1 mx-1"
         >
             <div className="flex items-center content-start ml-auto overflow-hidden text-ellipsis">
